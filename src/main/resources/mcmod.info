@@ -1,0 +1,22 @@
+[
+{
+  "modid": "VoidMagic",
+  "name": "VoidMagic",
+  "description": "Magic of Void",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+    "Yuuki Wesp (ivysola) <ls-micro@yandex.com>"
+  ],
+  "credits": "All the contributors",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent": "",
+  "dependencies": [
+    "MinecraftForge","Thaumcraft"
+  ]
+}
+]

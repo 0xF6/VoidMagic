@@ -1,0 +1,25 @@
+itemGroup.void_magic.tab=Пустотная Магия
+
+void_magic.research_name.VOID_SHARD=Осколок пустоты
+void_magic.research_text.VOID_SHARD=Отчаяние на завтрак
+
+void_magic.research_name.VOID_VORTEX=Проведение ритуала
+void_magic.research_text.VOID_VORTEX=С новым годом!
+
+void_magic.chat.1=О Боги! Вы поглотили пустоту!
+
+item.void_magic.shard.name=Осколок пустоты
+tooltip.void_magic.shard=Слабая вибрация...
+
+item.void_magic.vortex.name=Фрагмент Частилища
+tooltip.void_magic.vortex=Запах скорби ...
+
+tc.research_category.VOID_MAGIC=Наука пустоты
+ts.aspect.Voiduum=Пустота, Неопределенность, Совесть, Грех
+
+
+item.void_magic.yuuki.name=Юки Хуюки
+tooltip.void_magic.yuuki=Твой любимый пидор
+
+
+void_magic.research_page.void_shard.1=В день рождение одной замечательной пупырышки, возьмите кусок Юкички, 'поклодите' его на ритуальный стол и обложите его пиздюлями. Залейте это все своей любовью и пару щепоток магии. Добавьте жопу разработчика, банку релизов, говна и палок. И после окончания всех подготовительных работ, сделайте Юкичке чаю и.. <BR> С ДНЁМ РОЖДЕНИЯ ТОБИ :3
